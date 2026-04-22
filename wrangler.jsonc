@@ -33,7 +33,7 @@
   ],
   "kv_namespaces": [
     {
-      "binding": "KV_BINDING",
+      "binding": "KV",
       "preview_id": "5af3b33aec8b434bb466b88377c195b8",
       "id": "5af3b33aec8b434bb466b88377c195b8" // IMPORTANT: Change this to your KV namespace ID
     }
